@@ -1,0 +1,51 @@
+.navbar {
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+}
+
+.icons {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 90%;
+    margin:  5% 5%;
+}
+
+.logo {
+    width: auto;
+    height: 60px;
+}
+
+.menu {
+    width: auto;
+    height: 20px;
+}
+
+.headertext {
+    margin-left: 5%;
+    width: 50%;
+}
+
+.navbar h1 {
+    font-size: 6rem;
+    color: white;
+    margin: 0;
+}
+
+.navbar p {
+    font-size: 1.4rem;
+    color: white;
+    width: 56%;
+    font-weight: 300;
+}
+
+.navbar button {
+    border: 0;
+    padding: 25px;
+    border-radius: 10px;
+    font-weight: 600;
+    font-size: 1.6rem;
+    margin-bottom: 10%;
+    margin-top: 5%;
+}
