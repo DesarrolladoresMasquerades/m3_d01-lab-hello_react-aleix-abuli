@@ -14,18 +14,18 @@ export default function Info() {
             </div>
             <div className='info'>
                 <img src={image2} alt=''/>
-                <h2>Declarative</h2>
-                <p>React makes it painless to create interactive UIs.</p>
+                <h2>Components</h2>
+                <p>Build encapsulated components that manage their state.</p>
             </div>
             <div className='info'>
                 <img src={image3} alt=''/>
-                <h2>Declarative</h2>
-                <p>React makes it painless to create interactive UIs.</p>
+                <h2>Single-way</h2>
+                <p>A set of immutable values are passed to the component's.</p>
             </div>
             <div className='info'>
                 <img src={image4} alt=''/>
-                <h2>Declarative</h2>
-                <p>React makes it painless to create interactive UIs.</p>
+                <h2>JSX</h2>
+                <p>Statically-typed, designed to run on modern browsers.</p>
             </div>
         </div>
     );
