@@ -1,11 +1,12 @@
 .infoFlex {
     display: flex;
+    flex-wrap: wrap;
     margin: 5% 0%;
     justify-content: space-evenly;
 }
 
 .info {
-    width: 20%;
+    width: 200px;
 }
 
 h2 {
